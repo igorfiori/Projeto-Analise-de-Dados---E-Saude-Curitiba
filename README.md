@@ -1,4 +1,4 @@
-# Documentação do Projeto: Análise de Atendimentos nas Unidades Municipais de Saúde de Curitiba
+# Projeto: Análise de Atendimentos nas Unidades Municipais de Saúde de Curitiba
 
 ## Introdução
 
