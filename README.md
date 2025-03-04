@@ -178,6 +178,9 @@ df['Fim de Semana'] = df['Dia da Semana'].isin(['Saturday', 'Sunday'])
 
 Foram gerados resumos estatísticos das variáveis numéricas e categóricas, armazenados em um arquivo CSV para futura análise.
 
+![Estatísticas Gerais](estatisticas_gerais.csv)
+
+
 ### 2. Distribuição de Idades
 
 A distribuição de idades dos pacientes foi visualizada para entender as faixas etárias que mais utilizam os serviços de saúde.
