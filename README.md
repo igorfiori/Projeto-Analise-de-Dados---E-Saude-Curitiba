@@ -211,13 +211,25 @@ Verificou-se a demanda de municípios fora de Curitiba para os atendimentos méd
 
 ![Análise de Demandas de Outras Cidades](municipios_atendimentos.png)
 
-### 7. Proporção de Internações
+### 7. Análise de Atendimentos por Data e Tipo de Unidade
+
+Podemos agrupar os dados por dia de atendimento e tipo de unidade, somando o número de atendimentos.
+
+![Análise de Atendimentos por Data e Tipo de Unidade](evolucao_atendimentos.png) 
+
+### 8. Análise de Internações por Data e Tipo de Unidade
+
+Se a informação de internação estiver disponível no dataset, podemos usar um campo que indique se o paciente foi internado ou não. Vamos agrupar novamente por dia e tipo de unidade, somando as internações.
+
+![Análise de Internações por Data e Tipo de Unidade](evolucao_internacoes.png) 
+
+### 9. Proporção de Internações
 
 A análise revelou que menos de 1% dos atendimentos resultam em internação, o que é um fator relevante em análises de desbalanceamento de dados.
 
 ![Proporção de Internações](proporcao_internacao.png) 
 
-### 8. Encaminhamentos para Especialistas e Solicitações de Exames
+### 10. Encaminhamentos para Especialistas e Solicitações de Exames
 
 A proporção de atendimentos encaminhados para especialistas e com solicitação de exames também foi analisada.
 
