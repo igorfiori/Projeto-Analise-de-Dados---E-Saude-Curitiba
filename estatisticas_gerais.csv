@@ -1,0 +1,12 @@
+,Data do Atendimento,Data de Nascimento,Sexo,Tipo de Unidade,Descrição da Unidade,Código do CID,Solicitação de Exames,Encaminhamento para Atendimento Especialista,Desencadeou Internamento,Data do Internamento,Estabelecimento Solicitante,Estabelecimento Destino,CID do Internamento,Tratamento no Domicílio,Abastecimento,Energia Elétrica,Tipo de Habitação,Destino Lixo,Fezes/Urina,Cômodos,Em Caso de Doença,Grupo Comunitário,Meio de Comunicacao,Meio de Transporte,Município,Bairro,Idade,Classificação Etária,Dia da Semana,Turno do Atendimento,Fim de Semana
+count,987194,987194,987194,987194,987194,987194,987194,987194,987194,7177,7281,7281,7281,867474,867578,987194,867578,867580,867581,961338.0,867533,867448,867508,867540,987194,987194,987194.0,987194,987194,987194,987194
+unique,,,2,3,127,5067,2,2,2,,97,30,653,4,5,2,8,4,6,,155,5,7,48,291,1091,,4,7,3,2
+top,,,F,BASICO,UPA SITIO CERCADO,Z000,Nao,Nao,Nao,,UPA BOA VISTA,HOSPITAL NOSSA SENHORA DO ROCIO - CAMPO LARGO,R104,SEM TRATAMENTO,REDE PÚBLICA,Sim,TIJOLO/ALVENARIA COM REVESTIMENTO,COLETADO,SISTEMA DE ESGOTO,,UNIDADE DE SAUDE,NAO PARTICIPA,"TELEVISAO,RADIO",ONIBUS,CURITIBA,CIDADE INDUSTRIAL,,Adulto,Terça-feira,Dia,False
+freq,,,621557,608036,54069,105717,715035,842644,979913,,1258,3223,508,479496,854088,911775,757867,858292,802462,,427074,612466,355815,486255,953417,127730,,526262,199196,862325,903513
+mean,2018-06-14 19:01:01.171927808,1980-11-20 11:06:04.903352320,,,,,,,,2018-06-16 19:46:24.444754176,,,,,,,,,,5.356817269264297,,,,,,,37.09324914859693,,,,
+min,2018-05-01 00:06:00,1906-08-15 00:00:00,,,,,,,,2018-05-01 12:29:00,,,,,,,,,,-6.0,,,,,,,0.0,,,,
+25%,2018-05-22 15:51:00,1961-02-05 00:00:00,,,,,,,,2018-05-25 22:42:00,,,,,,,,,,4.0,,,,,,,17.0,,,,
+50%,2018-06-14 09:24:00,1981-06-10 00:00:00,,,,,,,,2018-06-15 21:29:00,,,,,,,,,,5.0,,,,,,,37.0,,,,
+75%,2018-07-06 09:35:00,2000-06-22 00:00:00,,,,,,,,2018-07-08 14:00:00,,,,,,,,,,6.0,,,,,,,57.0,,,,
+max,2018-08-01 15:03:00,2018-07-26 00:00:00,,,,,,,,2018-08-04 12:57:00,,,,,,,,,,55555.0,,,,,,,111.0,,,,
+std,,,,,,,,,,,,,,,,,,,,80.47540065363857,,,,,,,24.182670917230812,,,,
