@@ -176,64 +176,64 @@ df['Fim de Semana'] = df['Dia da Semana'].isin(['Saturday', 'Sunday'])
 
 ### 1. Estatísticas Gerais
 
-Foram gerados resumos estatísticos das variáveis numéricas e categóricas, armazenados em um arquivo CSV para futura análise.
-
 - [Estatísticas Gerais (CSV)](estatisticas_gerais.csv)  
 
+Foram gerados resumos estatísticos das variáveis numéricas e categóricas, armazenados em um arquivo CSV para futura análise.
 
 ### 2. Distribuição de Idades
 
-A distribuição de idades dos pacientes foi visualizada para entender as faixas etárias que mais utilizam os serviços de saúde.
-
 ![Distribuição de Idades](distribuicao_idades.png)
+
+A distribuição de idades dos pacientes foi visualizada para entender as faixas etárias que mais utilizam os serviços de saúde.
 
 ### 3. Distribuição de Atendimentos por Tipo de Unidade
 
-A quantidade de atendimentos por tipo de unidade foi analisada, identificando quais unidades recebem maior demanda.
-
 ![Distribuição de Atendimentos](atendimentos_tipo_unidade.png)
+
+A quantidade de atendimentos por tipo de unidade foi analisada, identificando quais unidades recebem maior demanda.
 
 ### 4. Análise de Atendimentos por Dia da Semana
 
-O comportamento dos atendimentos ao longo da semana foi explorado para verificar padrões sazonais.
-
 ![Análise de Atendimentos por Dia da Semana](atendimentos_dia_semana.png)
+
+O comportamento dos atendimentos ao longo da semana foi explorado para verificar padrões sazonais.
 
 ### 5. Turno dos Atendimentos
 
-A análise do turno dos atendimentos ajudou a identificar os horários de maior movimento nas unidades.
-
 ![Turno dos Atendimentos](atendimentos_turno.png)
+
+A análise do turno dos atendimentos ajudou a identificar os horários de maior movimento nas unidades.
 
 ### 6. Análise de Demandas de Outras Cidades
 
-Verificou-se a demanda de municípios fora de Curitiba para os atendimentos médicos.
-
 ![Análise de Demandas de Outras Cidades](municipios_atendimentos.png)
+
+Verificou-se a demanda de municípios fora de Curitiba para os atendimentos médicos.
 
 ### 7. Análise de Atendimentos por Data e Tipo de Unidade
 
-Podemos agrupar os dados por dia de atendimento e tipo de unidade, somando o número de atendimentos.
-
 ![Análise de Atendimentos por Data e Tipo de Unidade](evolucao_atendimentos.png) 
+
+Podemos agrupar os dados por dia de atendimento e tipo de unidade, somando o número de atendimentos.
 
 ### 8. Análise de Internações por Data e Tipo de Unidade
 
+![Análise de Internações por Data e Tipo de Unidade](evolucao_internacoes.png) 
+
 Se a informação de internação estiver disponível no dataset, podemos usar um campo que indique se o paciente foi internado ou não. Vamos agrupar novamente por dia e tipo de unidade, somando as internações.
 
-![Análise de Internações por Data e Tipo de Unidade](evolucao_internacoes.png) 
 
 ### 9. Proporção de Internações
 
-A análise revelou que menos de 1% dos atendimentos resultam em internação, o que é um fator relevante em análises de desbalanceamento de dados.
-
 ![Proporção de Internações](proporcao_internacao.png) 
+
+A análise revelou que menos de 1% dos atendimentos resultam em internação, o que é um fator relevante em análises de desbalanceamento de dados.
 
 ### 10. Encaminhamentos para Especialistas e Solicitações de Exames
 
-A proporção de atendimentos encaminhados para especialistas e com solicitação de exames também foi analisada.
-
 ![Encaminhamentos para Especialistas e Solicitações de Exames](proporcao_encaminhados_e_solicitacao_exames.png) 
+
+A proporção de atendimentos encaminhados para especialistas e com solicitação de exames também foi analisada.
 
 ---
 
