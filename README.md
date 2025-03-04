@@ -191,25 +191,37 @@ A distribuição de idades dos pacientes foi visualizada para entender as faixas
 
 A quantidade de atendimentos por tipo de unidade foi analisada, identificando quais unidades recebem maior demanda.
 
+![Distribuição de Atendimentos](atendimentos_tipo_unidade.png)
+
 ### 4. Análise de Atendimentos por Dia da Semana
 
 O comportamento dos atendimentos ao longo da semana foi explorado para verificar padrões sazonais.
+
+![Análise de Atendimentos por Dia da Semana](atendimentos_dia_semana.png)
 
 ### 5. Turno dos Atendimentos
 
 A análise do turno dos atendimentos ajudou a identificar os horários de maior movimento nas unidades.
 
+![Turno dos Atendimentos](atendimentos_turno.png)
+
 ### 6. Análise de Demandas de Outras Cidades
 
 Verificou-se a demanda de municípios fora de Curitiba para os atendimentos médicos.
+
+![Análise de Demandas de Outras Cidades](municipios_atendimentos.png)
 
 ### 7. Proporção de Internações
 
 A análise revelou que menos de 1% dos atendimentos resultam em internação, o que é um fator relevante em análises de desbalanceamento de dados.
 
+![Proporção de Internações](proporcao_internacao.png) 
+
 ### 8. Encaminhamentos para Especialistas e Solicitações de Exames
 
 A proporção de atendimentos encaminhados para especialistas e com solicitação de exames também foi analisada.
+
+![Encaminhamentos para Especialistas e Solicitações de Exames](proporcao_encaminhados_e_solicitacao_exames.png) 
 
 ---
 
