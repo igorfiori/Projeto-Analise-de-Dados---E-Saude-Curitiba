@@ -178,7 +178,7 @@ df['Fim de Semana'] = df['Dia da Semana'].isin(['Saturday', 'Sunday'])
 
 Foram gerados resumos estatísticos das variáveis numéricas e categóricas, armazenados em um arquivo CSV para futura análise.
 
-![Estatísticas Gerais](estatisticas_gerais.csv)
+- [Estatísticas Gerais (CSV)](estatisticas_gerais.csv)  
 
 
 ### 2. Distribuição de Idades
