@@ -185,6 +185,8 @@ Foram gerados resumos estatísticos das variáveis numéricas e categóricas, ar
 
 A distribuição de idades dos pacientes foi visualizada para entender as faixas etárias que mais utilizam os serviços de saúde.
 
+![Distribuição de Idades](distribuicao_idades.png)
+
 ### 3. Distribuição de Atendimentos por Tipo de Unidade
 
 A quantidade de atendimentos por tipo de unidade foi analisada, identificando quais unidades recebem maior demanda.
