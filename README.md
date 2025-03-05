@@ -174,13 +174,7 @@ df['Fim de Semana'] = df['Dia da Semana'].isin(['Saturday', 'Sunday'])
 
 ## Análise Exploratória de Dados (EDA)
 
-### 1. Estatísticas Gerais
-
-- [Estatísticas Gerais (CSV)](estatisticas_gerais.csv)  
-
-Foram gerados resumos estatísticos das variáveis numéricas e categóricas, armazenados em um arquivo CSV para futura análise.
-
-### 2. Distribuição de Idades
+### 1. Distribuição de Idades
 
 A distribuição de idades dos pacientes foi visualizada para entender as faixas etárias que mais utilizam os serviços de saúde.
 
@@ -188,7 +182,7 @@ A distribuição de idades dos pacientes foi visualizada para entender as faixas
 
 
 
-### 3. Distribuição de Atendimentos por Tipo de Unidade
+### 2. Distribuição de Atendimentos por Tipo de Unidade
 
 A quantidade de atendimentos por tipo de unidade foi analisada, identificando quais unidades recebem maior demanda.
 
@@ -196,7 +190,7 @@ A quantidade de atendimentos por tipo de unidade foi analisada, identificando qu
 
 
 
-### 4. Análise de Atendimentos por Dia da Semana
+### 3. Análise de Atendimentos por Dia da Semana
 
 O comportamento dos atendimentos ao longo da semana foi explorado para verificar padrões sazonais.
 
@@ -204,7 +198,7 @@ O comportamento dos atendimentos ao longo da semana foi explorado para verificar
 
 
 
-### 5. Turno dos Atendimentos
+### 4. Turno dos Atendimentos
 
 A análise do turno dos atendimentos ajudou a identificar os horários de maior movimento nas unidades.
 
@@ -212,7 +206,7 @@ A análise do turno dos atendimentos ajudou a identificar os horários de maior 
 
 
 
-### 6. Análise de Demandas de Outras Cidades
+### 5. Análise de Demandas de Outras Cidades
 
 Verificou-se a demanda de municípios fora de Curitiba para os atendimentos médicos.
 
@@ -220,7 +214,7 @@ Verificou-se a demanda de municípios fora de Curitiba para os atendimentos méd
 
 
 
-### 7. Análise de Atendimentos por Data e Tipo de Unidade
+### 6. Análise de Atendimentos por Data e Tipo de Unidade
 
 Podemos agrupar os dados por dia de atendimento e tipo de unidade, somando o número de atendimentos.
 
@@ -228,7 +222,7 @@ Podemos agrupar os dados por dia de atendimento e tipo de unidade, somando o nú
 
 
 
-### 8. Análise de Internações por Data e Tipo de Unidade
+### 7. Análise de Internações por Data e Tipo de Unidade
 
 Se a informação de internação estiver disponível no dataset, podemos usar um campo que indique se o paciente foi internado ou não. Vamos agrupar novamente por dia e tipo de unidade, somando as internações.
 
@@ -237,7 +231,7 @@ Se a informação de internação estiver disponível no dataset, podemos usar u
 
 
 
-### 9. Proporção de Internações
+### 8. Proporção de Internações
 
 A análise revelou que menos de 1% dos atendimentos resultam em internação, o que é um fator relevante em análises de desbalanceamento de dados.
 
@@ -245,7 +239,7 @@ A análise revelou que menos de 1% dos atendimentos resultam em internação, o 
 
 
 
-### 10. Encaminhamentos para Especialistas e Solicitações de Exames
+### 9. Encaminhamentos para Especialistas e Solicitações de Exames
 
 A proporção de atendimentos encaminhados para especialistas e com solicitação de exames também foi analisada.
 
